@@ -7,11 +7,12 @@ You will need to write a program that downloads all the items in https://www.por
 
 How you display the feed and how many layers/pages you use is up to you, but please ensure that we can see the complete list and the details of every item. You will likely hit some road blocks and errors along the way, please use your own initiative to deal with these issues, it’s part of the test.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+
 
 # Solution
 
 Created a project to satisfy the above issues.
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ##Technologies uses:
 
