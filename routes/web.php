@@ -16,5 +16,4 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [\App\Http\Controllers\ItemsController::class, "index"])->name('items-list');
 
-Route::get('import', [ImportController::class, "index"])->name('import');
 
