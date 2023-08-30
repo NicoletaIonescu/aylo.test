@@ -30,6 +30,7 @@ composer install
 php artisan migrate
 php artisan migrate:refresh
 
+npm run build
 
 php artisan app:import 'https://www.pornhub.com/files/json_feed_pornstars.json' 'import/files/import.json'
 
